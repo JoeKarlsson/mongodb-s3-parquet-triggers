@@ -2,9 +2,20 @@
 	"title": "How to Automate Continuous Data Copying from MongoDB to S3: trigger functions and policy",
 	"description": "The two MongoDB Atlas trigger functions, the AWS IAM policy and the DuckDB check from Joe Karlsson's tutorial on continuously copying MongoDB data into S3 as Parquet with Atlas Data Federation.",
 	"upload_type": "software",
-	"creators": [{ "name": "Karlsson, Joe" }],
+	"creators": [
+		{
+			"name": "Karlsson, Joe",
+			"orcid": "0009-0005-8048-9559"
+		}
+	],
 	"license": "MIT",
-	"keywords": ["MongoDB", "Atlas Data Federation", "Atlas Triggers", "AWS S3", "Parquet"],
+	"keywords": [
+		"MongoDB",
+		"Atlas Data Federation",
+		"Atlas Triggers",
+		"AWS S3",
+		"Parquet"
+	],
 	"related_identifiers": [
 		{
 			"identifier": "https://www.joekarlsson.com/blog/how-to-automate-continuous-data-copying-from-mongodb-to-s3/",

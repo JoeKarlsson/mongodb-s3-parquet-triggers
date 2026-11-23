@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: Karlsson
     given-names: Joe
+    orcid: 'https://orcid.org/0009-0005-8048-9559'
     website: 'https://www.joekarlsson.com'
 repository-code: 'https://github.com/JoeKarlsson/mongodb-s3-parquet-triggers'
 url: 'https://www.joekarlsson.com/blog/how-to-automate-continuous-data-copying-from-mongodb-to-s3/'
@@ -21,6 +22,7 @@ preferred-citation:
   authors:
     - family-names: Karlsson
       given-names: Joe
+      orcid: 'https://orcid.org/0009-0005-8048-9559'
   year: 2021
   month: 5
   url: 'https://www.joekarlsson.com/blog/how-to-automate-continuous-data-copying-from-mongodb-to-s3/'
