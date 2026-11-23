@@ -20,7 +20,7 @@
 		{
 			"identifier": "https://www.joekarlsson.com/blog/how-to-automate-continuous-data-copying-from-mongodb-to-s3/",
 			"relation": "isSupplementTo",
-			"resource_type": "publication-blogpost"
+			"resource_type": "publication-other"
 		}
 	]
 }
