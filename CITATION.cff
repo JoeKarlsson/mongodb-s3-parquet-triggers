@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: 'If you use these files or the tutorial they come from, please cite the tutorial.'
 title: 'How to Automate Continuous Data Copying from MongoDB to S3: trigger functions and policy'
 type: software
+doi: 10.5281/zenodo.24451386
 authors:
   - family-names: Karlsson
     given-names: Joe

@@ -1,6 +1,6 @@
 # MongoDB to S3 Parquet Triggers
 
-[![Check](https://github.com/JoeKarlsson/mongodb-s3-parquet-triggers/actions/workflows/check.yml/badge.svg)](https://github.com/JoeKarlsson/mongodb-s3-parquet-triggers/actions/workflows/check.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Check](https://github.com/JoeKarlsson/mongodb-s3-parquet-triggers/actions/workflows/check.yml/badge.svg)](https://github.com/JoeKarlsson/mongodb-s3-parquet-triggers/actions/workflows/check.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24451386.svg)](https://doi.org/10.5281/zenodo.24451386)
 
 The two MongoDB Atlas trigger functions, the AWS IAM policy and the DuckDB check that copy new MongoDB documents into an S3 bucket as Parquet every minute.
 
